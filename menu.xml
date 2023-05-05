@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+	<beverage>
+		<size>Small</size>
+		<price>3.50</price>
+		<description>For coffee, please inform the staff of the coffee type.</description>
+	</beverage>
+	<beverage>
+		<size>Regular</size>
+		<price>4.00</price>
+		<description></description>
+	</beverage>
+	<beverage>
+		<size>Large</size>
+		<price>4.50</price>
+		<description></description>
+	</beverage>
+	<other>
+		<name>Soda</name>
+		<price>3.00</price>
+	</other>
+	<other>
+		<name>Fresh juice</name>
+		<price>6.00</price>
+	</other>
+	<other>
+		<name>Bottled water</name>
+		<price>2.00</price>
+	</other>
+</menu>

@@ -1,0 +1,28 @@
+main{min-height:85vh;}
+footer{height: 10vh;}
+
+#about{background-color: #FEF5ED;}
+
+
+@media only screen and (max-width: 768px) {
+	header {
+		padding: 0.5em;
+	}
+
+	nav ul {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	nav ul li {
+		padding: 0.5em 0;
+	}
+
+	main {
+		padding: 0.5em;
+	}
+
+	footer {
+		padding: 0.5em;
+	}
+}
